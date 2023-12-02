@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Nataliya Malikova](https://up.htmlacademy.ru/adaptive/30/user/2252007).
-* Наставник: `Неизвестно`.
+- Студент: [Nataliya Malikova](https://up.htmlacademy.ru/adaptive/30/user/2252007).
+- Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
